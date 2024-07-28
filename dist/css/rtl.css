@@ -1,0 +1,61 @@
+#header {
+  direction: rtl;
+}
+
+.navbar ul {
+  flex-direction: row-reverse;
+}
+
+.carousel-container {
+  direction: rtl;
+}
+
+#about {
+  direction: rtl;
+}
+
+.about .content ul i {
+  right: 0;
+  left: auto;
+}
+
+.about .content ul li {
+  padding-right: 28px;
+}
+
+.count-box {
+  direction: rtl;
+}
+
+.counts .count-box span {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+#why-us {
+  direction: rtl;
+}
+
+#services {
+  direction: rtl;
+}
+
+#faq {
+  direction: rtl;
+}
+
+.faq .faq-item i {
+  float: right;
+}
+
+.faq .faq-item h4 {
+  margin: 0 28px 10px 0px;
+}
+
+#contact {
+  direction: rtl;
+}
+
+#footer {
+  direction: rtl;
+}
